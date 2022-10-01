@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1664143778 source:d:\mis cosas\escritorio\tpprogramacion\codigo\tpintegrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TdaCuil.h"
+	"TdaFecha.h"
+	"TdaLista.h"
+	"TdaReparto.h"
+	"FuncionesVarias.h"
+
+1664560445 d:\mis cosas\escritorio\tpprogramacion\codigo\tpintegrador\tdacuil.h
+	<stdio.h>
+	<stdlib.h>
+
+1664560445 d:\mis cosas\escritorio\tpprogramacion\codigo\tpintegrador\tdafecha.h
+	<stdio.h>
+	<stdlib.h>
+
+1664563310 d:\mis cosas\escritorio\tpprogramacion\codigo\tpintegrador\tdalista.h
+	"FuncionesVarias.h"
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
+1664562431 d:\mis cosas\escritorio\tpprogramacion\codigo\tpintegrador\tdareparto.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"TdaCliente.h"
+	"TdaChofer.h"
+	"TdaVehiculo.h"
+	"TdaPaquete.h"
+
+1664563298 d:\mis cosas\escritorio\tpprogramacion\codigo\tpintegrador\funcionesvarias.h
+	<stdio.h>
+	<stdlib.h>
+
+1664563892 d:\mis cosas\escritorio\tpprogramacion\codigo\tpintegrador\tdacliente.h
+	<stdio.h>
+	<stdlib.h>
+	"TdaChofer.h"
+
+1664563464 d:\mis cosas\escritorio\tpprogramacion\codigo\tpintegrador\tdachofer.h
+	<stdio.h>
+	<stdlib.h>
+
+1664563927 d:\mis cosas\escritorio\tpprogramacion\codigo\tpintegrador\tdavehiculo.h
+	<stdio.h>
+	<stdlib.h>
+
+1664563937 d:\mis cosas\escritorio\tpprogramacion\codigo\tpintegrador\tdapaquete.h
+	<stdio.h>
+	<stdlib.h>
+
